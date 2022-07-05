@@ -2,4 +2,4 @@
 
 Support: minelevelssoporte@gmail.com
 <br></br>
-<img src="https://play-lh.googleusercontent.com/RSKcY3dSvYVqPgabkZ3xmAjzpOBKmgmMZNOxLvxeab3cHmrcFvW_DeIPY863FWA1sOA href="https://discord.com/invite/CpHyg3A4BJ">
+<a href="https://discord.com/invite/CpHyg3A4BJ"><img src="https://play-lh.googleusercontent.com/RSKcY3dSvYVqPgabkZ3xmAjzpOBKmgmMZNOxLvxeab3cHmrcFvW_DeIPY863FWA1sOA" height="25"></a>
