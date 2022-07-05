@@ -133,6 +133,7 @@
 /** Helle Box */
 .bg-light {
   background-color: #dcdcdc;
+  width: 13px;
 }
 
 /** Rote Box */
