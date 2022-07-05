@@ -128,12 +128,13 @@
 /** Dunkle Box */
 .bg-dark {
   background-color: #212529;
+  width: 50%;
 }
 
 /** Helle Box */
 .bg-light {
   background-color: #dcdcdc;
-  width: 13px;
+  width: 50%;
 }
 
 /** Rote Box */
