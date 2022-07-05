@@ -84,7 +84,7 @@
 }
 
 /** Bild-Box */
-figure {
+.figure {
   margin: 0;
   padding: 0;
 }
