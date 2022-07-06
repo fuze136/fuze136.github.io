@@ -81,7 +81,7 @@
 /** Bild der Bildergalerie */
 .bildergalerie-bild {
   height: auto;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 /** Bild-Box */
@@ -162,5 +162,5 @@
 
 /* (C) ZOOM ON HOVER */
 #zoomA:hover {
-  transform: scale(1);
+  transform: scale(1.1);
 }
