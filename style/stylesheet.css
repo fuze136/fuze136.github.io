@@ -152,7 +152,7 @@
 
 #zoomA {
   /* (A) OPTIONAL DIMENSIONS */
-  width: 600px;
+  width: 400px;
   height: auto;
   /* (B) ANIMATE ZOOM */
   /* ease | ease-in | ease-out | linear */
