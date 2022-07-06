@@ -153,7 +153,7 @@
 
 #zoomA {
   /* (A) OPTIONAL DIMENSIONS */
-  width: 600px;
+  width: 400px;
   height: auto;
   /* (B) ANIMATE ZOOM */
   /* ease | ease-in | ease-out | linear */
@@ -162,5 +162,5 @@
 
 /* (C) ZOOM ON HOVER */
 #zoomA:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
