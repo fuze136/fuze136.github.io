@@ -81,6 +81,7 @@
 /** Bild der Bildergalerie */
 .bildergalerie-bild {
   height: auto;
+  border-radius: 8px;
 }
 
 /** Bild-Box */
