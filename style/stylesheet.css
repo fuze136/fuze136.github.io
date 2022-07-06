@@ -161,5 +161,5 @@
 
 /* (C) ZOOM ON HOVER */
 #zoomA:hover {
-  transform: scale(1.1);
+  transform: scale(1);
 }
