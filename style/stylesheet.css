@@ -151,6 +151,11 @@
   color: #fff;
 }
 
+/** NoTextDecoration */
+.NoTextDecoration {
+  text-docoration: none;
+}
+
 #zoomA {
   /* (A) OPTIONAL DIMENSIONS */
   width: 400px;
