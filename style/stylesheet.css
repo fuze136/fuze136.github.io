@@ -1,6 +1,7 @@
 ﻿.website-body {
   font-family: Quicksand, sans-serif;
-  color: #14151c;
+  color: #333;
+  background-color: #14151c;
   padding: 0;
   margin: 0;
 }
