@@ -13,6 +13,7 @@
 /** padding (Innenabstand oben rechts unten links) */
 .p-3 {
   padding: 16px;
+  text-decoration: none;
 }
 
 /** padding-top (Innenabstand oben) */
@@ -150,11 +151,6 @@
 /** Heller Text */
 .text-white {
   color: #fff;
-}
-
-/** text-decoration */
-.text-decoration {
-  text-docoration: none;
 }
 
 #zoomA {
