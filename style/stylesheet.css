@@ -13,10 +13,13 @@
 /** padding (Innenabstand oben rechts unten links) */
 .p-3 {
   padding: 16px;
+}
+
+/** text-decoration */
+.text-decoration {
   text-decoration: none;
 }
 
-/** modificar text-decoration */
 
 /** padding-top (Innenabstand oben) */
 .pt-3 {
