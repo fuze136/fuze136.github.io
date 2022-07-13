@@ -16,6 +16,8 @@
   text-decoration: none;
 }
 
+/** modificar text-decoration */
+
 /** padding-top (Innenabstand oben) */
 .pt-3 {
   padding-top: 16px;
