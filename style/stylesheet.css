@@ -185,11 +185,11 @@
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: dark-grey; 
+  background: #14151c; 
   border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #b30000; 
+  background: #14151c; 
 }
