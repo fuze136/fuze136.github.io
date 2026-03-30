@@ -137,6 +137,7 @@ a {
 .image {
     width: 150px;
     border-radius: 25px;
+    margin: 1%;
 }
 
 .h2 {
@@ -179,14 +180,46 @@ a {
     width: 100%;
 }
 
-#tgndiv {
-    text-align: center;
-    background-color: rgb(29, 28, 28); 
-    width: 100%;
-}
-
 #tgndiv_light {
     text-align: center;
     background-color: #f1f1f1; 
     width: 100%;
+}
+
+.tgngif {
+    width: 60%;
+    border-radius: 25px;
+}
+
+#arkprofile {
+    width: 60%;
+    border-radius: 25px;
+}
+
+.arkbosses {
+    color:aqua;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.arkbosses_light {
+    color: rgb(24, 67, 89);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#bossmenu {
+    width: 100%;
+}
+
+.arkbosscontainer {
+    width: 20%;
+    margin-right: 5px;
+    display: inline-block
+}
+
+.arkbossesimg {
+    width: 50%;
+    text-align: center;
+    border-radius: 25px;
 }
